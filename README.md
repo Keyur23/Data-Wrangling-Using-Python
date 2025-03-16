@@ -102,7 +102,7 @@ df.drop("fuel-type", axis=1, inplace=True)
 ---
 
 ## 🎉 Conclusion
-By completing this lab, you now understand how to:
+By completing this, you now understand how to:
 ✔ Handle missing data
 ✔ Correct data formatting
 ✔ Normalize and standardize data
